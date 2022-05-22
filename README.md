@@ -1,6 +1,6 @@
 # Twitter-clone
 
-![twitter](https://user-images.githubusercontent.com/49994180/169691142-3f2f8939-f4f8-4058-8aff-68bae1c6693a.png)
+![twitter](https://user-images.githubusercontent.com/49994180/169691266-cf664ec8-c433-47e1-8cf5-4d85119d9b4e.png)
 
 ## Установка
 
