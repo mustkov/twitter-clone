@@ -1,6 +1,6 @@
 # Twitter-clone
 
-![https://pastenow.ru/H1CDF](https://pastenow.ru/H1CDF)
+![twitter](https://user-images.githubusercontent.com/49994180/169691142-3f2f8939-f4f8-4058-8aff-68bae1c6693a.png)
 
 ## Установка
 
@@ -58,14 +58,14 @@ Route: [http://localhost:8080/tweets/ID](http://localhost:8080/tweets/ID)
 Request: POST
 Route: [http://localhost:8080/tweets](http://localhost:8080/tweets)
 
-Body raw: {"tweet": 'Hello World', img: ""}
+Body raw: {"tweet": "Hello World", "img": ""}
 
 ### UPDATE tweet by ID
 
 Request: POST
 Route: [http://localhost:8080/tweets/ID](http://localhost:8080/tweets/ID)
 
-Body raw: {"tweet": 'Hello Moon', img: ""}
+Body raw: {"tweet": "Hello Moon", "img": ""}
 
 ### DELETE tweet by ID
 
