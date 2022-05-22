@@ -48,7 +48,7 @@ const App = () => {
 								</svg>
 							</div>
 							<div>
-								<h1>Levi Ackerman</h1>
+								<h1>Andrey Dolzhenkov</h1>
 								<p>13.5k Tweets</p>
 							</div>
 						</div>
@@ -60,11 +60,11 @@ const App = () => {
 							</div>
 						</div>
 						<div className="twitter-profile-main-name">
-							<h1>Levi Ackerman</h1>
-							<p>@leviackerman</p>
+							<h1>Andrey Dolzhenkov</h1>
+							<p>@mustkov</p>
 						</div>
 						<div className="twitter-profile-main-description">
-							⚛️ Software Developer | 🌅 Technical Writer | 🎨 Content Creator | 📝 1 Million+ Subscribers
+							⚛️ Software Developer
 						</div>
 						<div className="twitter-profile-main-stats">
 							<div>
@@ -74,18 +74,7 @@ const App = () => {
 										<path d="M20.692 10.69C20.692 5.9 16.792 2 12 2s-8.692 3.9-8.692 8.69c0 1.902.603 3.708 1.743 5.223l.003-.002.007.015c1.628 2.07 6.278 5.757 6.475 5.912.138.11.302.163.465.163.163 0 .327-.053.465-.162.197-.155 4.847-3.84 6.475-5.912l.007-.014.002.002c1.14-1.516 1.742-3.32 1.742-5.223zM12 20.29c-1.224-.99-4.52-3.715-5.756-5.285-.94-1.25-1.436-2.742-1.436-4.312C4.808 6.727 8.035 3.5 12 3.5s7.192 3.226 7.192 7.19c0 1.57-.497 3.062-1.436 4.313-1.236 1.57-4.532 4.294-5.756 5.285z"></path>
 									</g>
 								</svg>
-								<p>Paradis Island</p>
-							</div>
-							<div>
-								<svg viewBox="0 0 24 24" aria-hidden="true" fill="rgb(139, 152, 165)">
-									<g>
-										<path d="M11.96 14.945c-.067 0-.136-.01-.203-.027-1.13-.318-2.097-.986-2.795-1.932-.832-1.125-1.176-2.508-.968-3.893s.942-2.605 2.068-3.438l3.53-2.608c2.322-1.716 5.61-1.224 7.33 1.1.83 1.127 1.175 2.51.967 3.895s-.943 2.605-2.07 3.438l-1.48 1.094c-.333.246-.804.175-1.05-.158-.246-.334-.176-.804.158-1.05l1.48-1.095c.803-.592 1.327-1.463 1.476-2.45.148-.988-.098-1.975-.69-2.778-1.225-1.656-3.572-2.01-5.23-.784l-3.53 2.608c-.802.593-1.326 1.464-1.475 2.45-.15.99.097 1.975.69 2.778.498.675 1.187 1.15 1.992 1.377.4.114.633.528.52.928-.092.33-.394.547-.722.547z"></path>
-										<path d="M7.27 22.054c-1.61 0-3.197-.735-4.225-2.125-.832-1.127-1.176-2.51-.968-3.894s.943-2.605 2.07-3.438l1.478-1.094c.334-.245.805-.175 1.05.158s.177.804-.157 1.05l-1.48 1.095c-.803.593-1.326 1.464-1.475 2.45-.148.99.097 1.975.69 2.778 1.225 1.657 3.57 2.01 5.23.785l3.528-2.608c1.658-1.225 2.01-3.57.785-5.23-.498-.674-1.187-1.15-1.992-1.376-.4-.113-.633-.527-.52-.927.112-.4.528-.63.926-.522 1.13.318 2.096.986 2.794 1.932 1.717 2.324 1.224 5.612-1.1 7.33l-3.53 2.608c-.933.693-2.023 1.026-3.105 1.026z"></path>
-									</g>
-								</svg>
-								<p>
-									<a href="/">limey.io/leviackerman</a>
-								</p>
+								<p>Samara</p>
 							</div>
 							<div>
 								<svg viewBox="0 0 24 24" aria-hidden="true" fill="rgb(139, 152, 165)">
@@ -101,7 +90,7 @@ const App = () => {
 										<circle cx="12" cy="17.486" r="1.285"></circle>
 									</g>
 								</svg>
-								<p>Joined January 2012</p>
+								<p>Joined May 2020</p>
 							</div>
 						</div>
 						<div className="twitter-profile-main-followers">
@@ -226,8 +215,8 @@ const App = () => {
 								<div className="user-profile">
 									<div className="profile-picture"></div>
 									<div>
-										<h1>Eren Yeager</h1>
-										<p>@erenyeager</p>
+										<h1>No name</h1>
+										<p>@noname</p>
 									</div>
 								</div>
 								<div>
@@ -238,8 +227,8 @@ const App = () => {
 								<div className="user-profile">
 									<div className="profile-picture"></div>
 									<div>
-										<h1>Mikasa Ackerman</h1>
-										<p>@mikasaackerman</p>
+										<h1>No name</h1>
+										<p>@noname</p>
 									</div>
 								</div>
 								<div>
